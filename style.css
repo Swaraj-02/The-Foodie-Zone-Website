@@ -78,7 +78,7 @@ li:active {
 /* welcome section  */
 
 .welcome {
-    background-image: url('/img/Background-1.jpg');
+    background-image: url('https://github.com/Swaraj-02/The-Foodie-Zone-Website/blob/main/Background-1.jpg');
     width: 100%;
     height: 50%;
     background-size: cover;
